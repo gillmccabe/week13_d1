@@ -1,0 +1,18 @@
+body {
+  font-family: "Helvetica";
+}
+
+#app {
+  padding-left: 30px;
+  width: 40%;
+}
+
+.film {
+  background-color: #E2E4EC;
+  margin: 10px 0 5px 0;
+  padding: 10px;
+}
+
+h4 {
+  margin: 0 0 10px 0;
+}
